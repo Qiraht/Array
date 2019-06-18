@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanArray", "Array\LatihanArray.csproj", "{04BBAE32-9179-4B23-A318-DA10DF6C6535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasArray", "TugasArray\TugasArray.csproj", "{47F058A8-DAB7-48E4-8821-612A49702458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BBAE32-9179-4B23-A318-DA10DF6C6535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BBAE32-9179-4B23-A318-DA10DF6C6535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BBAE32-9179-4B23-A318-DA10DF6C6535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BBAE32-9179-4B23-A318-DA10DF6C6535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F058A8-DAB7-48E4-8821-612A49702458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F058A8-DAB7-48E4-8821-612A49702458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F058A8-DAB7-48E4-8821-612A49702458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F058A8-DAB7-48E4-8821-612A49702458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF7A14D7-2C4D-47D0-B48B-36DC7044A792}
+	EndGlobalSection
+EndGlobal
